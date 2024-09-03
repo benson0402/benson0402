@@ -20,4 +20,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benson0402&" alt="benson0402" /></p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/benson0402?theme=nord&font=Ubuntu%20Mono&ext=contest)
+
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/benson0402?theme=nord&font=Ubuntu%20Mono&ext=contest) -->
