@@ -32,7 +32,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
 
 
-### 🧰 &nbsp;OS, Version Controll & Tools 
+### 🧰 OS, Version Controll & Tools 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
@@ -41,7 +41,14 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ Leetcode Analytics
+<p align="center">
+  <a href="https://leetcode.com/u/benson0402/">
+    <img height="360em" src="https://leetcard.jacoblin.cool/benson0402?theme=nord&font=Cairo&ext=contest"/>
+  </a>
+</p>
+
+### ⚙️ GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/benson0402">
@@ -57,7 +64,7 @@
 </p>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/benson0402/"><img src="https://img.shields.io/badge/-bensn0402-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
