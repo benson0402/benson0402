@@ -4,12 +4,12 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 <!-- 👨‍💻 &nbsp;Working -->
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science and Information Technology at National Yang Ming Chiao Tung University.\
-🌱 &nbsp;I'm on track for learning more about Quant Trading, Web Development.\
+🌱 &nbsp;I'm on track for learning more about Quant Trading, OS stuff.\
 ✍️ &nbsp;In my free time, I enjoying running and reading.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at benson930402@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at benson930402@gmail.com! I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://github.com/benson0402/CV/blob/main/CV.pdf) for more details about me. I'm open to feedback and suggestions! -->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
