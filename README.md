@@ -20,9 +20,6 @@ KVM-based virtualization and confidential computing.
 | **Linux debugger and I/O logger** | A `ptrace` debugger for non-PIE x86-64 ELF programs, using Capstone for disassembly, with breakpoints and instruction stepping. A separate `LD_PRELOAD` logger interposes six libc functions with configurable file/network filters and per-process I/O logs. |
 | **P language compiler** | Implemented Flex/Bison rules, C++ AST construction, scoped symbol tables, type checks, and RV32 code generation for the supported integer subset across compiler course assignments. |
 
-These projects come from university coursework; their source repositories are
-currently private.
-
 ## Algorithms and teaching
 
 - **Teaching assistant at NYCU:** Introduction to Algorithms (Fall 2024 and
