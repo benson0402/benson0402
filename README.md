@@ -8,8 +8,8 @@ I'm a **Computer Science and Information Engineering master's student at
 National Taiwan University**, with graduation expected in June 2028. I completed
 my B.S. in Computer Science at **National Yang Ming Chiao Tung University** in 2026.
 
-My projects focus on **operating systems, Linux systems programming, and
-performance engineering**, primarily in C and C++. My ongoing research explores
+My projects focus on **operating systems and Linux systems programming**,
+primarily in C and C++. My ongoing research explores
 KVM-based virtualization and confidential computing.
 
 ## Systems projects
@@ -18,7 +18,6 @@ KVM-based virtualization and confidential computing.
 | --- | --- |
 | **RISC-V kernel — Orange Pi RV2** | A single-hart RV64 kernel with a buddy allocator, preemptive scheduling, per-process Sv39 address spaces, demand paging, copy-on-write `fork`, and a virtual file system. |
 | **Linux debugger and I/O logger** | A `ptrace` debugger for non-PIE x86-64 ELF programs, using Capstone for disassembly, with breakpoints and instruction stepping. A separate `LD_PRELOAD` logger interposes six libc functions with configurable file/network filters and per-process I/O logs. |
-| **Adaptive image filtering** | Parallel RGB filtering using OpenMP, AVX-512, tile-local prefix sums, and compact pixel storage. Measured a **5.7× geometric-mean end-to-end speedup** over an earlier OpenMP implementation across eight images on four physical Intel Xeon cores, with exact RGB-pixel validation. |
 | **P language compiler** | Implemented Flex/Bison rules, C++ AST construction, scoped symbol tables, type checks, and RV32 code generation for the supported integer subset across compiler course assignments. |
 
 These projects come from university coursework; their source repositories are
